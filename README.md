@@ -1,2 +1,2 @@
-# initial diretory, initial file
+# initial directory, initial file
 print ("watson, come here")
