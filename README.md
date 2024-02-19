@@ -1,2 +1,3 @@
 # initial directory, initial file
-print ("watson, come here")
+print ("Updated revision history")
+print ("tweaked the junkfile")
